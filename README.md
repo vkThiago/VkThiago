@@ -1,7 +1,8 @@
 ## Ola, meu nome é Thiago Ribeiro
 
-- 🔭 Sou tecnico em informatica
-- 🌱 Estudando HTML e Pyton
+- 🔭 Tecnico em informatica
+- 🌱 Estudando Pyton
+- 💻 Cursando Analise e Desenvolvimento de Sistemas - Uniasselvi
 
 <div>
   <a href="https://github.com/vkThiago/">
