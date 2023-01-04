@@ -10,8 +10,11 @@
 
 <div>
   <a href="https://github.com/vkThiago/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vkThiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkThiago&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vkThiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+  
+<div>
+    <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkThiago&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 ##
