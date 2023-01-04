@@ -1,5 +1,7 @@
 ## Ola, meu nome é Thiago Ribeiro
 
+<img src="https://raw.githubusercontent.com/vkThiago/VkThiago/main/Imagem/Computador.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Thiago">
+
 - 🔭 Tecnico em informatica
 - 🌱 Estudando Pyton
 - 💻 Cursando Analise e Desenvolvimento de Sistemas - Uniasselvi
