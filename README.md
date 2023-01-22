@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Tecnico em informatica
+- 🔭 Tecnico em Informatica
 - 🌱 Estudando HTML, CSS e JS
 - 💻 Cursando Analise e Desenvolvimento de Sistemas - Uniasselvi
 
