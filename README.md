@@ -4,8 +4,8 @@
 
 
 
-- 🔭 Tecnico em Informatica
-- 🌱 Estudando HTML, CSS e JS
+- 🔭 Sou Tecnico em Informatica com 10 anos de experiencia
+- 🌱 Atualmente estou estudando HTML, CSS e JS
 - 💻 Cursando Analise e Desenvolvimento de Sistemas - Uniasselvi
 
 <div>
