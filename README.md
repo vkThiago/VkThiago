@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/vkThiago/VkThiago/main/Imagem/Computador.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Thiago">
 
-## Ola, meu nome é Thiago Ribeiro
+## Ola, meu nome é Thiago 
 
 
 
