@@ -4,9 +4,8 @@
 
 
 
-- 🔭 Sou Tecnico em Informatica com 10 anos de experiencia
-- 🌱 Atualmente estou estudando HTML, CSS e JS
-- 💻 Cursando Analise e Desenvolvimento de Sistemas - Uniasselvi
+- 🌱 Atualmente estou estudando Python
+- 💻 Cursando Analise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/vkThiago/">
